@@ -1,0 +1,12 @@
+execute if score *playerNum Grobal matches 1.. positioned ~ ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 2.. positioned ~40 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 3.. positioned ~80 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 4.. positioned ~120 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 5.. positioned ~160 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 6.. positioned ~200 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 7.. positioned ~240 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 8.. positioned ~280 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 9.. positioned ~320 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 10.. positioned ~360 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 11.. positioned ~400 ~1 ~1 run setblock ~ ~ ~ minecraft:air
+execute if score *playerNum Grobal matches 12.. positioned ~440 ~1 ~1 run setblock ~ ~ ~ minecraft:air

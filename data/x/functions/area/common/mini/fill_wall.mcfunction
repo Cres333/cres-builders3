@@ -1,0 +1,12 @@
+execute if score *playerNum Grobal matches 1.. positioned ~ ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 2.. positioned ~40 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 3.. positioned ~80 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 4.. positioned ~120 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 5.. positioned ~160 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 6.. positioned ~200 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 7.. positioned ~240 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 8.. positioned ~280 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 9.. positioned ~320 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 10.. positioned ~360 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 11.. positioned ~400 ~ ~ run function x:area/common/mini/fill
+execute if score *playerNum Grobal matches 12.. positioned ~440 ~ ~ run function x:area/common/mini/fill

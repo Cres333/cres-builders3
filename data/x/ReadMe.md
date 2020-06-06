@@ -1,0 +1,17 @@
+# スコアボードオブジェクト
+## AnsPos1-3
+## BuildPos1-3
+## SingleThread
+### *areabar
+### *pos
+### *spectator
+## Phase
+### *state
+## MarkerId
+## Grobal
+## NowId
+## Col
+## Row
+## IfRowCol
+## Ready
+## Id

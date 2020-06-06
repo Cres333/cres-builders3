@@ -1,0 +1,1 @@
+execute at @e[tag=n03] run function x:area/common/area_gen

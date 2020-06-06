@@ -1,0 +1,12 @@
+data modify entity @e[tag=answer3,scores={DBID=1},limit=1] CustomName set from entity @p[scores={AnsPos3=1}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=2},limit=1] CustomName set from entity @p[scores={AnsPos3=2}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=3},limit=1] CustomName set from entity @p[scores={AnsPos3=3}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=4},limit=1] CustomName set from entity @p[scores={AnsPos3=4}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=5},limit=1] CustomName set from entity @p[scores={AnsPos3=5}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=6},limit=1] CustomName set from entity @p[scores={AnsPos3=6}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=7},limit=1] CustomName set from entity @p[scores={AnsPos3=7}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=8},limit=1] CustomName set from entity @p[scores={AnsPos3=8}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=9},limit=1] CustomName set from entity @p[scores={AnsPos3=9}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=10},limit=1] CustomName set from entity @p[scores={AnsPos3=10}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=11},limit=1] CustomName set from entity @p[scores={AnsPos3=11}] Inventory[-1].tag.display.Name
+data modify entity @e[tag=answer3,scores={DBID=12},limit=1] CustomName set from entity @p[scores={AnsPos3=12}] Inventory[-1].tag.display.Name
